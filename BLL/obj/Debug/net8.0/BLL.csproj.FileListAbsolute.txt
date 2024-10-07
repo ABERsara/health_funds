@@ -1,0 +1,17 @@
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\bin\Debug\net8.0\Dal_Repository.dll
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\bin\Debug\net8.0\DTO.dll
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\bin\Debug\net8.0\Dal_Repository.pdb
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\bin\Debug\net8.0\DTO.pdb
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\ריקי שפר\Documents\Dal_Repository\BLL\obj\Debug\net8.0\ref\BLL.dll
